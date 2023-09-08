@@ -8,12 +8,12 @@ To get detailed insights about the project, check out my blog on it:
 
 ## Features / Modules
 The Word Cloud App offers the following features:
-Document Upload: Users can upload PDF, TXT, and DOC documents for word cloud generation.
-Customization: Users can customize the word cloud's appearance by adjusting parameters such as color schemes, fonts, and shapes.
-Word Cloud Generation: The app generates word clouds based on the uploaded documents.
-Word Frequency Table: A table is generated with each word in the document along with its frequency.
-CSV Export: Users can download the word frequency table as a CSV file.
-Image Download: Users can download the generated word cloud as an image.
+- **Document Upload**: Users can upload PDF, TXT, and DOC documents for word cloud generation.
+- **Customization**: Users can customize the word cloud's appearance by adjusting parameters such as color schemes, fonts, and shapes.
+- **Word Cloud Generation**: The app generates word clouds based on the uploaded documents.
+- **Word Frequency Table**: A table is generated with each word in the document along with its frequency.
+- **CSV Export**: Users can download the word frequency table as a CSV file.
+- **Image Download**: Users can download the generated word cloud as an image.
 
 ## Project Status
 Completed
@@ -21,12 +21,12 @@ Completed
 ## Tech Stack
 The project utilizes the following technologies and tools:
 
-Python: The primary programming language used for backend logic and data processing.
-Streamlit: A Python library for creating web applications with minimal effort.
-PDFMiner: Used for parsing PDF documents.
-docx2txt: Used for extracting text from DOC documents.
-wordcloud: A Python library for generating word clouds.
-pandas: Used for data manipulation and table generation.
+- **Python**: The primary programming language used for backend logic and data processing.
+- **Streamlit**: A Python library for creating web applications with minimal effort.
+- **PDFMiner**: Used for parsing PDF documents.
+- **docx2txt**: Used for extracting text from DOC documents.
+- **wordcloud**: A Python library for generating word clouds.
+- **pandas**: Used for data manipulation and table generation.
 
 ## Installation
 To run this project locally, follow these steps:
@@ -38,13 +38,13 @@ To run this project locally, follow these steps:
 4. Access the web app in your browser by navigating to the provided URL (typically, http://localhost:8501).
 
 ## Usage
-Upload a PDF, TXT, or DOC document using the file upload widget.
-Customize the word cloud appearance using the provided options (color scheme, font, shape, etc.).
-Click the "Generate Word Cloud" button to create the word cloud.
-The word cloud will be displayed on the app's interface.
-Scroll down to view the word frequency table.
-Click the "Download CSV" button to download the word frequency table as a CSV file.
-Click the "Download Image" button to download the word cloud as an image.
+- Upload a PDF, TXT, or DOC document using the file upload widget.
+- Customize the word cloud appearance using the provided options (color scheme, font, shape, etc.).
+- Click the "Generate Word Cloud" button to create the word cloud.
+- The word cloud will be displayed on the app's interface.
+- Scroll down to view the word frequency table.
+- Click the "Download CSV" button to download the word frequency table as a CSV file.
+- Click the "Download Image" button to download the word cloud as an image.
 
 ## Demo
 
