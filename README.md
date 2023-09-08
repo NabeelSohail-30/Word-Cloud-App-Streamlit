@@ -4,7 +4,7 @@
 The Word Cloud App is a web application that allows users to generate word clouds from PDF, TXT, and DOC documents. It offers customization options for word cloud generation and provides a word cloud table containing each word along with its frequency. Additionally, the app allows users to download the word cloud as an image and the word cloud table as a CSV file. This project leverages Python, the Streamlit library, and various document processing libraries to create an interactive and user-friendly word cloud generation tool.
 
 ## Blog / Article
-To get detailed insights about the project, check out my blog on it:
+To get detailed insights about the project, check out my blog on it: https://nabeelsohail2630.wixsite.com/portfolio/post/visualize-insights-unleashing-the-word-cloud-app-with-streamlit-and-python
 
 ## Features / Modules
 The Word Cloud App offers the following features:
@@ -47,6 +47,9 @@ To run this project locally, follow these steps:
 - Click the "Download Image" button to download the word cloud as an image.
 
 ## Demo
+![Screenshot 2023-09-08 194423](https://github.com/NabeelSohail-30/World-Cloud-App-Streamlit/assets/73162686/de0d248a-5f3f-47fb-9388-7124707dff09)
+![Screenshot 2023-09-08 194504](https://github.com/NabeelSohail-30/World-Cloud-App-Streamlit/assets/73162686/6a546c13-2c06-4ba3-a2b6-ae6b8ec014c8)
+
 
 ## Contributing
 If you'd like to contribute to this project, please follow these guidelines:
